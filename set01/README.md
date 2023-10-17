@@ -162,7 +162,7 @@ Input the array:
 
 ---
 
-9. Write a C program to find the [square root](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method) of a number.
+9. Write a C program to find the [square root]dfhttps://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method) of a number.
 
 ***Function Declarations***
 ```c

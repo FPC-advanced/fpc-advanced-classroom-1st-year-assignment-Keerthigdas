@@ -1,0 +1,24 @@
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c: In function 'input_array_size':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c:27:5: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]
+     printf("Enter the size of array");
+     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c:28:5: warning: incompatible implicit declaration of built-in function 'scanf' [enabled by default]
+     scanf("%d",&x);
+     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c: In function 'input_array':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c:37:9: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]
+         printf("enter element %d: ",i+1);
+         ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c:38:9: warning: incompatible implicit declaration of built-in function 'scanf' [enabled by default]
+         scanf("%d",&a[i]);
+         ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c: In function 'output':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c:60:13: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]
+             printf("+");
+             ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c:62:9: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]
+         printf("%d", a[i]);
+         ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem08.c:64:5: warning: incompatible implicit declaration of built-in function 'printf' [enabled by default]
+     printf("is %d", sum);
+     ^

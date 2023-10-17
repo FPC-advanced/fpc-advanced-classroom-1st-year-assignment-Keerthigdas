@@ -1,0 +1,7 @@
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem06.c: In function 'main':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem06.c:20:5: warning: passing argument 4 of 'compare' makes pointer from integer without a cast [enabled by default]
+     compare(a,b,c,largest);
+     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set01\problem06.c:13:6: note: expected 'int *' but argument is of type 'int'
+ void compare(int a, int b, int c, int *largest);
+      ^
