@@ -61,6 +61,6 @@ void output(int n, int result)
     }
     else
     {
-        printf("%d is not a composite number",n)
+        printf("%d is not a composite number",n);
     }
 }
