@@ -14,9 +14,9 @@ void output(int sum);
 
 int main()
 {
-    int n, a;
+    int n, a, sum;
     input_array_size(n);
     n=sum_composite_numbers();
-    a[n]
-
+    a[n]=sum_composite_numbers();
+    
 }
