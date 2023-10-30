@@ -28,4 +28,7 @@ int input_array_size()
     scanf("%d",&x);
 }
 
-void input_array
+void input_array(int n, int a[n])
+{
+
+}
