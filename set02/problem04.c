@@ -38,3 +38,4 @@ void input_array(int n, int a[n])
     }
 }
 
+int sum_composite_numbers(int n, )
