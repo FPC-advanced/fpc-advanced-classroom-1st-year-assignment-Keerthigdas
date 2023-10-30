@@ -16,5 +16,7 @@ int main()
 {
     int n, a;
     input_array_size(n);
+    n=sum_composite_numbers();
+    a[n]
 
 }
