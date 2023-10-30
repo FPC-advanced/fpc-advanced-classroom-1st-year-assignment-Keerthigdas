@@ -21,4 +21,9 @@ int main()
     output(sum);
 }
 
-int input_array_size
+int input_array_size()
+{
+    int x;
+    printf("Enter array size:");
+    scanf("%d",)
+}
