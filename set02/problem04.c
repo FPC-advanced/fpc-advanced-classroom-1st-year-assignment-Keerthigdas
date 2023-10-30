@@ -25,5 +25,7 @@ int input_array_size()
 {
     int x;
     printf("Enter array size:");
-    scanf("%d",)
+    scanf("%d",&x);
 }
+
+void input_array
