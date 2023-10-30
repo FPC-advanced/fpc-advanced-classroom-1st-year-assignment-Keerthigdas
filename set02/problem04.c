@@ -14,5 +14,6 @@ void output(int sum);
 
 int main()
 {
+    int n, a;
     
 }
