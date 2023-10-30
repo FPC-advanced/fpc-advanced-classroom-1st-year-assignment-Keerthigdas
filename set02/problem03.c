@@ -18,7 +18,7 @@ int main()
 {
     int n,result;
     n=input_number();
-    result=is_composite();
+    result=is_composite(n);
     output(n,result);
 }
 
