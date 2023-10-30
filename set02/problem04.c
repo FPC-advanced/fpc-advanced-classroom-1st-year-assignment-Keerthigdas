@@ -34,6 +34,7 @@ void input_array(int n, int a[n])
     for (i=0; i<n; i++)
     {
         printf("Enter array values");
-        scanf("")
+        scanf("%d",&a[i]);
     }
 }
+
