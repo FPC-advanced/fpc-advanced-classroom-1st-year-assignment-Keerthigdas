@@ -33,29 +33,21 @@ int input_number()
 int is_composite(int n)
 {
     int count=0;
-    if (n<=1)
-    {
-        return 0;
-    }
-
     int i;
-    for (i=2;  i<=n; i++)
+    for (i=2; i<=n; i++)
     {
         if (n%i==0)
         {
-            count=count+1;
-            if (count >2)
-            {
-                return 1;
-            }
+            count = count+1;
         }
     }
-    return 0;
+    return count;
+
 }
 
 void output(int n, int result)
 {
-    if (result)
+    if (result>1)
     {
         printf("%d is a composite number.",n);
     }

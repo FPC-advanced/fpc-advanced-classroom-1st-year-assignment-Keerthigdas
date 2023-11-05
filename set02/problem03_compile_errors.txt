@@ -19,3 +19,29 @@ c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
 Compilation finished at 10/30/2023, 8:37:16 PM
 Compilation started at 10/30/2023, 8:37:55 PM
 Compilation finished at 10/30/2023, 8:38:06 PM
+Compilation started at 10/31/2023, 11:27:06 AM
+Compilation finished at 10/31/2023, 11:27:08 AM
+Compilation started at 11/5/2023, 5:44:14 PM
+Compilation finished at 11/5/2023, 5:44:15 PM
+Compilation started at 11/5/2023, 7:08:46 PM
+c:/mingw/bin/../lib/gcc/mingw32/4.8.1/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem03.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 11/5/2023, 7:08:46 PM
+Compilation started at 11/5/2023, 7:09:46 PM
+Compilation finished at 11/5/2023, 7:09:46 PM
+Compilation started at 11/5/2023, 7:10:11 PM
+Compilation finished at 11/5/2023, 7:10:12 PM
+Compilation started at 11/5/2023, 7:15:49 PM
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem03.c: In function 'is_composite':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem03.c:36:9: error: expected identifier or '(' before numeric constant
+     int 1;
+         ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem03.c:37:10: error: 'i' undeclared (first use in this function)
+     for (i=2; i<=n; i++)
+          ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem03.c:37:10: note: each undeclared identifier is reported only once for each function it appears in
+Compilation finished at 11/5/2023, 7:15:49 PM
+Compilation started at 11/5/2023, 7:16:18 PM
+Compilation finished at 11/5/2023, 7:16:19 PM
+Compilation started at 11/5/2023, 7:16:43 PM
+Compilation finished at 11/5/2023, 7:16:44 PM
