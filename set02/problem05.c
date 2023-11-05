@@ -33,3 +33,6 @@ int input()
 }
 
 int find_gcd(a,b)
+{
+    
+}
