@@ -24,3 +24,8 @@ int main()
     gcd_sum=find_gcd(a,b);
     output(a, b, gcd);
 }
+
+int input()
+{
+    it
+}
