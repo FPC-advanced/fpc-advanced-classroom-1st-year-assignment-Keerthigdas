@@ -32,3 +32,4 @@ int input()
     scanf("%d",&x);
 }
 
+int find_gcd(a,b)
