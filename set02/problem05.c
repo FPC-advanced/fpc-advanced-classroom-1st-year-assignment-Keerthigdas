@@ -27,5 +27,6 @@ int main()
 
 int input()
 {
-    it
+    int x;
+    printf("Enter ")
 }
