@@ -28,5 +28,6 @@ int main()
 int input()
 {
     int x;
-    printf("Enter ")
+    printf("Enter number:");
+    
 }
