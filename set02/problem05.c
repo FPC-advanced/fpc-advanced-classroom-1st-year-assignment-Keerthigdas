@@ -29,5 +29,6 @@ int input()
 {
     int x;
     printf("Enter number:");
-    
+    scanf("%d",&x);
 }
+
