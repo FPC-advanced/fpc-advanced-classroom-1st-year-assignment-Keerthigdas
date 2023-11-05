@@ -19,5 +19,7 @@ void output(int a, int b, int gcd);
 int main()
 {
     int a,b,gcd;
-    a
+    a=input();
+    b=input();
+    
 }
