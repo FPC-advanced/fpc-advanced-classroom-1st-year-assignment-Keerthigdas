@@ -8,7 +8,6 @@ void output(int a, int b, int gcd);*/
 
 //
 
-/* GCD (a, b) = (a × b)/ LCM (a, b)*/
 
 #include <stdio.h>
 
@@ -34,5 +33,6 @@ int input()
 
 int find_gcd(a,b)
 {
+    /* GCD (a, b) = (a × b)/ LCM (a, b)*/
     
 }
