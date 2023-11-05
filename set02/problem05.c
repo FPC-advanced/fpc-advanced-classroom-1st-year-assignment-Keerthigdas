@@ -22,6 +22,5 @@ int main()
     a=input();
     b=input();
     gcd_sum=find_gcd(a,b);
-    
-
+    output(a, b, gcd);
 }
