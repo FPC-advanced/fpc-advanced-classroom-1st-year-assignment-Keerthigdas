@@ -39,7 +39,7 @@ int find_gcd(int a, int b) {
         min = b;
     }
 
-    for (int i = 1; i <= min; ++i) {
+    for (int i = 1; i <= min; i++) {
         if (a % i == 0 && b % i == 0) {
             gcd = i;
         }
