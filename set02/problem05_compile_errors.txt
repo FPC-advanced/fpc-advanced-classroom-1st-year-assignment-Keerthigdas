@@ -45,3 +45,10 @@ c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
      ^
 c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:42:5: note: use option -std=c99 or -std=gnu99 to compile your code
 Compilation finished at 11/15/2023, 8:48:58 PM
+Compilation started at 11/15/2023, 8:54:04 PM
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c: In function 'find_gcd':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:42:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for (int i = 1; i <= min; ++i) {
+     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:42:5: note: use option -std=c99 or -std=gnu99 to compile your code
+Compilation finished at 11/15/2023, 8:54:06 PM
