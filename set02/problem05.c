@@ -6,8 +6,6 @@ int input();
 int find_gcd(int a, int b);
 void output(int a, int b, int gcd);*/
 
-//
-
 
 #include <stdio.h>
 
@@ -31,8 +29,19 @@ int input()
     scanf("%d",&x);
 }
 
-int find_gcd(a,b)
-{
-    /* GCD (a, b) = (a × b)/ LCM (a, b)*/
-    
+int find_gcd(int a, int b) {
+    // GCD (a, b) = (a × b) / LCM (a, b)
+    int gcd = 1;
+
+    for (int i = 1; i <= min; ++i) {
+        if (a % i == 0 && b % i == 0) {
+            gcd = i;
+        }
+    }
+
+    return gcd;
+}
+
+void output(int a, int b, int gcd) {
+    printf("GCD of %d and %d is: %d\n", a, b, gcd);
 }
