@@ -32,7 +32,7 @@ int input()
 int find_gcd(int a, int b) {
     // GCD (a, b) = (a × b) / LCM (a, b)
     int gcd = 1;
-    int min= (a<b )
+    int min= (a && b)
 
     for (int i = 1; i <= min; ++i) {
         if (a % i == 0 && b % i == 0) {

@@ -13,3 +13,21 @@ c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
      for (int i = 1; i <= min; ++i) {
                           ^
 Compilation finished at 11/15/2023, 8:30:36 PM
+Compilation started at 11/15/2023, 8:32:00 PM
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c: In function 'main':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:21:5: error: 'gcd_sum' undeclared (first use in this function)
+     gcd_sum=find_gcd(a,b);
+     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:21:5: note: each undeclared identifier is reported only once for each function it appears in
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c: In function 'find_gcd':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:37:5: error: expected ',' or ';' before 'for'
+     for (int i = 1; i <= min; ++i) {
+     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:37:21: error: 'i' undeclared (first use in this function)
+     for (int i = 1; i <= min; ++i) {
+                     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:37:34: error: expected ';' before ')' token
+     for (int i = 1; i <= min; ++i) {
+                                  ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem05.c:37:34: error: expected statement before ')' token
+Compilation finished at 11/15/2023, 8:32:00 PM
