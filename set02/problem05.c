@@ -13,28 +13,26 @@ int input();
 int find_gcd(int a, int b);
 void output(int a, int b, int gcd);
 
-int main()
-{
-    int a,b,gcd;
-    a=input();
-    b=input();
-    gcd_sum=find_gcd(a,b);
+int main() {
+    int a, b, gcd;
+    a = input();
+    b = input();
+    gcd = find_gcd(a, b);
     output(a, b, gcd);
+    return 0;
 }
 
-int input()
-{
+int input() {
     int x;
-    printf("Enter number:");
-    scanf("%d",&x);
+    printf("Enter number: ");
+    scanf("%d", &x);
+    return x;
 }
 
 int find_gcd(int a, int b) {
-    // GCD (a, b) = (a × b) / LCM (a, b)
     int gcd = 1;
-    int min= (a && b)
-
-    for (int i = 1; i <= min; ++i) {
+    
+    for (int i = 1; i <= (a < b ? a : b); ++i) {
         if (a % i == 0 && b % i == 0) {
             gcd = i;
         }
