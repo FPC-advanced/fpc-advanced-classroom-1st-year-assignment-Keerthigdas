@@ -21,5 +21,7 @@ olleh
 
 int main()
 {
+    int i;
     
 }
+
