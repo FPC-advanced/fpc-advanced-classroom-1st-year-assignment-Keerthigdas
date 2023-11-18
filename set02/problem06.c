@@ -22,7 +22,7 @@ olleh
 int main()
 {
     int i;
-    for (i=100; i>=50; i++)
+    for (i=100; i>=50; i--)
     {
         printf("%d\n", i);
     }
