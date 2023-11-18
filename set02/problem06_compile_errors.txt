@@ -26,3 +26,5 @@ c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
      ^
 c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c:24:5: note: use option -std=c99 or -std=gnu99 to compile your code
 Compilation finished at 11/18/2023, 10:43:55 PM
+Compilation started at 11/18/2023, 11:39:21 PM
+Compilation finished at 11/18/2023, 11:39:21 PM
