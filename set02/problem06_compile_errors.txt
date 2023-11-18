@@ -34,3 +34,11 @@ Compilation started at 11/18/2023, 11:39:52 PM
 Compilation finished at 11/18/2023, 11:39:53 PM
 Compilation started at 11/18/2023, 11:43:21 PM
 Compilation finished at 11/18/2023, 11:43:21 PM
+Compilation started at 11/18/2023, 11:46:16 PM
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c: In function 'main':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c:28:5: error: expected ';' before '}' token
+     }
+     ^
+Compilation finished at 11/18/2023, 11:46:16 PM
+Compilation started at 11/18/2023, 11:46:22 PM
+Compilation finished at 11/18/2023, 11:46:22 PM
