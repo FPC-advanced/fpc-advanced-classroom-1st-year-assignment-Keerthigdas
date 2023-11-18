@@ -12,3 +12,17 @@ c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
      ^
 c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c:24:5: note: use option -std=c99 or -std=gnu99 to compile your code
 Compilation finished at 11/18/2023, 10:40:34 PM
+Compilation started at 11/18/2023, 10:43:11 PM
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c: In function 'main':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c:24:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for (int i=0; i<=10; i++)
+     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c:24:5: note: use option -std=c99 or -std=gnu99 to compile your code
+Compilation finished at 11/18/2023, 10:43:11 PM
+Compilation started at 11/18/2023, 10:43:55 PM
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c: In function 'main':
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c:24:5: error: 'for' loop initial declarations are only allowed in C99 mode
+     for (int i=0; i<=10; i++)
+     ^
+c:\Users\kithu\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-Keerthigdas\set02\problem06.c:24:5: note: use option -std=c99 or -std=gnu99 to compile your code
+Compilation finished at 11/18/2023, 10:43:55 PM
